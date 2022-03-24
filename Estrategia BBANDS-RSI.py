@@ -3,7 +3,7 @@ from math import floor
 from pandas_datareader import data as pdr
 import datetime as dt
 
-#Elgimos y guardamos en variables el activo y el período de fechas que queremos analizar. El activo y la fecha de inicio los elige el usuario
+#Elegimos y guardamos en variables el activo y el período de fechas que queremos analizar. El activo y la fecha de inicio los elige el usuario
 symbol = input("Seleccione un activo para analizar: ").upper()
 start_date = input("Seleccione la fecha de inicio del análisis: ")
 end_date = dt.date.today()
