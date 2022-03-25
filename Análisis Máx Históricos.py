@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 19 19:19:38 2021
-
-@author: G&L
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from pandas_datareader import data as pdr
