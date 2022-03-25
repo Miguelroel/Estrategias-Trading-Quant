@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 27 20:16:34 2021
-
-@author: G&L
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import datetime as dt
