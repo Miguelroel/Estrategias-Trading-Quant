@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 31 19:46:05 2022
-
-@author: migue
-"""
-
 from pandas_datareader import data as pdr
 from yahoo_fin import stock_info as si
 import yfinance as yf
